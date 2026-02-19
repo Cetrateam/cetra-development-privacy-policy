@@ -1,27 +1,29 @@
 # Privacy Policy for Cetra Development Apps with Advertising
 
-**Last updated: January 24, 2026**
+
 
 ## Introduction
 
-This Privacy Policy describes how apps developed by Cetra Development ("we", "our", or "the Apps") handle information when you use our mobile applications that display advertisements, including but not limited to:
-- CurrencyFlow Converter
-- Kanji Match JLPT
+This Privacy Policy describes how Cetra Development ("we", "our") handles information when you use this mobile application.
 
 ## Information We Collect
 
 ### Advertising Data
 
-Our apps use Google AdMob to display advertisements. AdMob may collect and use certain information to provide personalized advertising, including:
+This app uses Google AdMob to display advertisements. AdMob may collect and use certain information to provide personalized advertising, including:
 
 * **Device Identifiers**: Such as the Advertising Identifier (IDFA) on iOS
 * **Usage Data**: Information about ads viewed and interacted with
 
 This data is collected by Google AdMob, a third-party advertising service provided by Google LLC. We do not have direct access to this data.
 
+### Purchase History
+
+This app offers in-app purchases and subscriptions. Purchase transactions are processed entirely by Apple through StoreKit. We do not collect, store, or have access to your payment information. Purchase history is used only on-device to verify your entitlements (e.g., premium access).
+
 ### Data We Do NOT Collect
 
-Our Apps do not collect, store, or transmit any personal information such as:
+This app does not collect, store, or transmit any personal information such as:
 
 * Name or contact information
 * Location data
@@ -48,15 +50,15 @@ Since we do not collect personal data, there is no data retention by us. Any dat
 
 ## Children's Privacy
 
-Our apps are rated 4+ and are suitable for all ages. We do not knowingly collect personal information from children. The advertisements shown are provided by AdMob and are subject to Google's policies regarding ad content.
+This app is rated 4+ and is suitable for all ages. We do not knowingly collect personal information from children. The advertisements shown are provided by AdMob and are subject to Google's policies regarding ad content.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us through the App Store support link for the respective app.
+If you have any questions about this Privacy Policy, please contact us through the App Store support link for this app.
 
 ## Your Rights
 
